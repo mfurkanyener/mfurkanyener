@@ -19,7 +19,7 @@
 
 <h2 align="left">Or</h2>
 <p align="left">
-<a href="https://www.furkanyener.dev/" target="blank"></a>
+<a href="https://www.furkanyener.dev/" target="blank">My Web Site</a>
 
 
 
