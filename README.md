@@ -12,12 +12,12 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mfurkanyener/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfurkanyener" height="30" width="40" /></a>
 
 
-<h2 align="left">Or</h2>
+<h3 align="left">Or</h3>
 <p align="left">
 <a href="https://www.furkanyener.dev/" target="blank">My Web Site</a>
 
