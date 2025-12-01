@@ -17,3 +17,9 @@
 <a href="https://www.linkedin.com/in/mfurkanyener/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfurkanyener" height="30" width="40" /></a>
 
 
+<h2 align="left">Or</h2>
+<p align="left">
+<a href="https://www.furkanyener.dev/" target="blank"></a>
+
+
+
